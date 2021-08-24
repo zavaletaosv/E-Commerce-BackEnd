@@ -6,9 +6,9 @@
 
 ## Links
 
-Repository Link:
+Repository Link: https://github.com/zavaletaosv/E-Commerce-BackEnd
 
-Deployed Website Link: 
+Video Link: https://drive.google.com/file/d/1zO4qe76-x1kooGANZbsh0Jx156MtRiBo/view
 ## Usage
 
 Once deployed, the application appears as the image attached below on a traditional desktop.
