@@ -28,6 +28,11 @@ alt="A screenshot of the routes is shown" />
 
 ## Resources
 
+https://www.npmjs.com/package/mysql2
+
+https://www.npmjs.com/package/sequelize
+
+https://www.npmjs.com/package/dotenv
 
 ## Credits
 
